@@ -1,8 +1,9 @@
 # Employee Management System
 
-The Employee Management System is a mini web application built to manage employee records. It consists of a front-end developed in React for the user interface and a back-end powered by Java Spring Boot to handle data operations.
+This Employee Management System is a mini web application built to manage employee records. It consists of a front-end developed in React for the user interface and a back-end powered by Java Spring Boot to handle data operations.
 
-![Screenshot](/screenshots/screenshot.png)
+![Employee Management System](https://github.com/nuelladev/Employee-management-system/raw/main/Screenshot%20%28174%29.png)
+
 
 ## Features
 
